@@ -5,7 +5,7 @@ A factor-based allocation engine that uses the Fama French 3 Factor model to per
 
 <div align="center">
   
-| The Computer Vision Toolset | The Financial Engineering Toolset |
+| Report | Presentation Slides |
 |:--: |:--:|
 | [Here](https://github.com/schan-2040/ffa-engine/blob/master/FFAEngine%20Report.pdf) | [Here](https://github.com/schan-2040/ffa-engine/blob/master/FFAEngine%20Slides.pdf) |
 
